@@ -8,12 +8,12 @@
 
 Layer 7 DDOS : https://github.com/jseidl/GoldenEye
 
-####### Untuk layer 7 DDOS, pastikan website tidak menggunakan CDN service. Jika menggunakan CDN Service, gunakan https://securitytrails.com/dns-trails untuk mencari IP asli.
+###### Untuk layer 7 DDOS, pastikan website tidak menggunakan CDN service. Jika menggunakan CDN Service, gunakan https://securitytrails.com/dns-trails untuk mencari IP asli.
 
 
 Layer 4 DDOS : https://www.stressthem.to/
 
-####### Untuk layer 4 DDOS, biasanya dapat digunakan untuk website yang tidak di server di cloud, contohnya website sekolah yang biasanya menggunakan xampp webserver. 
+###### Untuk layer 4 DDOS, biasanya dapat digunakan untuk website yang tidak di server di cloud, contohnya website sekolah yang biasanya menggunakan xampp webserver. 
 Daftar ke stressthem dapat menggunakan fakemail/tempmail karena tidak ada verifikasi.
 
 
