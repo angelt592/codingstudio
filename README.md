@@ -36,4 +36,5 @@ Man-In-The-Browser : https://github.com/r1singkid/man-in-the-browser
 
 ## Hex-Based
 #### https://hexed.it/
+#### https://x64dbg.com/#start
 ## External link : https://medium.com/@joeljeremyah/how-to-bypass-hwid-protected-application-e2675ea81199
